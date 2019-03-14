@@ -11,7 +11,7 @@ __*Prototype*__ aplikasi berbasis *mobile* untuk memesan makanan daring
 ### Cara Menghentikan Program Ini
 - Tutup _browser_
 
-##### Aplikasi ini merupakan _prototype_ yang tidak memiliki _code_ apapun dalam proses pembuatannya, karena hanya ditujukan untuk mensimulasikan interaksi manusia dengan aplikasi ini
+##### Aplikasi ini merupakan _prototype_ yang tidak memiliki _code_ dan _logic_ apapun dalam proses pembuatannya, karena hanya ditujukan untuk mensimulasikan interaksi manusia dengan aplikasi ini
 
 # Human-Computer Interaction Assignment
 ### Lapar Online
@@ -26,7 +26,7 @@ Mobile App __Prototype__ for online food ordering
 ### How to stop this program
 - Close your browser
 
-##### This app is just a _Prototype_ that has no code embedded into it, because it meant just to simulate human-computer interaction
+##### This app is just a _Prototype_ that has no code and logic embedded into it, because it meant just to simulate human-computer interaction
 
 
 _Note_: This program's interface is mostly in Indonesian. You can try to translate it using your favorite translating app.
