@@ -16,8 +16,6 @@ __*Prototype*__ aplikasi berbasis *mobile* untuk memesan makanan daring
 # Human-Computer Interaction Assignment
 ### Lapar Online
 
-__*Prototype*__ aplikasi berbasis *mobile* untuk memesan makanan daring
-
 Mobile App __Prototype__ for online food ordering
 
 ### How to run this program
